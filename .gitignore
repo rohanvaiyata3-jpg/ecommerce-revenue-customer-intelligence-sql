@@ -1,0 +1,21 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MySQL local files
+*.sqlitedb
+*.sqlite
+*.sqlite3
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Environment and secret files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.temp
