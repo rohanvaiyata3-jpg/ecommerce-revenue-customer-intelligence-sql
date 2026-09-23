@@ -1,4 +1,4 @@
-# E-Commerce Revenue & Customer Intelligence — SQL
+# E-Commerce Revenue & Customer Intelligence - SQL
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ The dataset contains transactional e-commerce sales information covering:
 
 ## Analysis Structure
 
-### 01 — Database Setup
+### 01 - Database Setup
 
 - Created the analytical database
 - Created the raw sales table
@@ -52,7 +52,7 @@ The dataset contains transactional e-commerce sales information covering:
 - Converted dates and numeric fields into appropriate data types
 - Performed initial record validation
 
-### 02 — Data Quality
+### 02 - Data Quality
 
 - Record and entity counts
 - Duplicate checks
@@ -62,7 +62,7 @@ The dataset contains transactional e-commerce sales information covering:
 - Date validation
 - Gross vs. net sales validation
 
-### 03 — KPI Analysis
+### 03 - KPI Analysis
 
 - Total revenue, orders, customers, and units sold
 - Average Order Value (AOV)
@@ -74,7 +74,7 @@ The dataset contains transactional e-commerce sales information covering:
 - Sales-channel performance
 - Payment-method performance
 
-### 04 — Customer Analysis
+### 04 - Customer Analysis
 
 - Customer-level revenue and order analysis
 - Top customer ranking
@@ -84,7 +84,7 @@ The dataset contains transactional e-commerce sales information covering:
 - Customer segmentation
 - Segment-level revenue contribution
 
-### 05 — Product Analysis
+### 05 - Product Analysis
 
 - Category performance
 - Product revenue and volume analysis
@@ -95,7 +95,7 @@ The dataset contains transactional e-commerce sales information covering:
 - Category contribution to total revenue
 - Product rating and discount analysis
 
-### 06 — Discount Analysis
+### 06 - Discount Analysis
 
 - Performance by discount level
 - Discount value and effective discount rate
@@ -105,7 +105,7 @@ The dataset contains transactional e-commerce sales information covering:
 - Category-level discount performance
 - Channel-level discount performance
 
-### 07 — Geographic Analysis
+### 07 - Geographic Analysis
 
 - State-level performance
 - Top states by revenue
@@ -117,7 +117,7 @@ The dataset contains transactional e-commerce sales information covering:
 - Yearly geographic performance
 - Top-performing state by year
 
-### 08 — Channel Analysis
+### 08 - Channel Analysis
 
 - Overall channel performance
 - Channel × category analysis
@@ -153,31 +153,4 @@ The dataset contains transactional e-commerce sales information covering:
 
 ## Project Structure
 
-```text
-ecommerce-revenue-customer-intelligence-sql/
-│
-├── 01_database_setup/
-│   └── 01_database_setup.sql
-│
-├── 02_data_quality/
-│   └── 02_data_quality.sql
-│
-├── 03_kpi_analysis/
-│   └── 03_kpi_analysis.sql
-│
-├── 04_customer_analysis/
-│   └── 04_customer_analysis.sql
-│
-├── 05_product_analysis/
-│   └── 05_product_analysis.sql
-│
-├── 06_discount_analysis/
-│   └── 06_discount_analysis.sql
-│
-├── 07_geographic_analysis/
-│   └── 07_geographic_analysis.sql
-│
-├── 08_channel_analysis/
-│   └── 08_channel_analysis.sql
-│
-└── README.md
+<img width="982" height="607" alt="image" src="https://github.com/user-attachments/assets/5a875bce-9d06-40d8-9748-96717c3e12d3" />
